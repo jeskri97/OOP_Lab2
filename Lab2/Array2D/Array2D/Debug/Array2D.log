@@ -1,0 +1,5 @@
+﻿  array2D.cpp
+C:\Users\bruh1\Documents\OOP\Array2D\Array2D\array2D.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bruh1\Documents\OOP\Array2D\Array2D\array2D.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bruh1\Documents\OOP\Array2D\Array2D\array2D.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+  Array2D.vcxproj -> C:\Users\bruh1\Documents\OOP\Array2D\Debug\Array2D.exe

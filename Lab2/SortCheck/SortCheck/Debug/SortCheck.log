@@ -1,0 +1,3 @@
+﻿  sortCheck.cpp
+C:\Users\bruh1\Documents\OOP\SortCheck\SortCheck\sortCheck.cpp(13): warning C4715: 'isSorted': not all control paths return a value
+  SortCheck.vcxproj -> C:\Users\bruh1\Documents\OOP\SortCheck\Debug\SortCheck.exe
