@@ -1,0 +1,7 @@
+﻿  vecDatabase.cpp
+C:\Users\bruh1\Documents\OOP\VecDatabase\VecDatabase\vecDatabase.cpp(14,7): warning C4101: 'toLower': unreferenced local variable
+C:\Users\bruh1\Documents\OOP\VecDatabase\VecDatabase\vecDatabase.cpp(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bruh1\Documents\OOP\VecDatabase\VecDatabase\vecDatabase.cpp(65,1): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\bruh1\Documents\OOP\VecDatabase\VecDatabase\vecDatabase.cpp(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bruh1\Documents\OOP\VecDatabase\VecDatabase\vecDatabase.cpp(106,21): warning C4018: '<': signed/unsigned mismatch
+  VecDatabase.vcxproj -> C:\Users\bruh1\Documents\OOP\VecDatabase\Debug\VecDatabase.exe

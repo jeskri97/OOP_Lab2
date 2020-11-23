@@ -24,7 +24,14 @@ bool isPalindrome(const char* word, int length) {
 }
 
 int main(void) {
-	const char word[] = "Tacocat";
+	char word[200];
+
+	printf("Input: ");
+	std::cin >> word;
+
 	bool boo = isPalindrome(word, strlen(word));
-	printf("isPalindrome: %d\n", boo);
+	if (boo)
+		printf("Input is a Palindrome\n");
+	else
+		printf("Input is not a Palindrome\n");
 }
