@@ -1,2 +1,0 @@
-C:\Users\bruh1\Documents\OOP\Lab2\ConnectingMenu\Debug\ConnectingMenu.pdb
-C:\Users\bruh1\Documents\OOP\Lab2\ConnectingMenu\ConnectingMenu\Debug\ConnectingMenu.pdb

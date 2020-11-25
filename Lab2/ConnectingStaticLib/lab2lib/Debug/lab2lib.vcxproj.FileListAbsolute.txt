@@ -1,0 +1,2 @@
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\Debug\lab2lib.pdb
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\lab2lib\Debug\lab2lib.pdb

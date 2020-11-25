@@ -1,0 +1,12 @@
+﻿  lab2lib.cpp
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\lab2lib\lab2lib.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\lab2lib\lab2lib.cpp(119,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\lab2lib\lab2lib.cpp(120,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\lab2lib\lab2lib.cpp(218,7): warning C4101: 'toLower': unreferenced local variable
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\lab2lib\lab2lib.cpp(228,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\lab2lib\lab2lib.cpp(269,1): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\lab2lib\lab2lib.cpp(302,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\lab2lib\lab2lib.cpp(310,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\lab2lib\lab2lib.cpp(16): warning C4715: 'isSorted': not all control paths return a value
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\lab2lib\lab2lib.cpp(188): warning C4715: 'swapSort': not all control paths return a value
+  lab2lib.vcxproj -> C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\Debug\lab2lib.lib

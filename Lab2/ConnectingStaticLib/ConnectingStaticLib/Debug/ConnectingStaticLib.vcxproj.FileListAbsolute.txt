@@ -1,0 +1,4 @@
+C:\Users\bruh1\source\repos\ConnectingStaticLib\Debug\ConnectingStaticLib.pdb
+C:\Users\bruh1\source\repos\ConnectingStaticLib\ConnectingStaticLib\Debug\ConnectingStaticLib.pdb
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\Debug\ConnectingStaticLib.pdb
+C:\Users\bruh1\Documents\OOP\Lab2\ConnectingStaticLib\ConnectingStaticLib\Debug\ConnectingStaticLib.pdb
